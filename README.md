@@ -1,4 +1,4 @@
-# Python Useful Books
+# Useful Python Books
 Python Books is a repository that aims to collect and distribute popular python books.
 
 
