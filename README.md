@@ -8,3 +8,4 @@ Books provided so far:
 - Data Structures and Algorithms in Python by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia (2013)
 - Fluent Python Clear, Concise, and Effective Programming by Luciano Ramalho (2015)
 - The Python Book The Ultimate Guide to Coding with Python by Aaron Asadi
+- Think Python How to Think Like a Computer Scientist by Allen B. Downey (2nd Edition, 2015)
